@@ -1,4 +1,4 @@
-PARA O FUNCIONAMENTO O ARQUIVO bd.JSON deve estar na raiz da pasta Sistema.Gerenciameto e deve ser apontada na seguinte declaraçã onde  instancia
+**PARA O FUNCIONAMENTO O ARQUIVO bd.JSON deve estar na raiz da pasta Sistema.Gerenciameto e deve ser apontada na seguinte declaração onde  instancia a Base de Dados
 BaseDados<Servico> bd = new BaseDados<Servico>("D:\\WS-VSCODE\\Sistema.Gerenciameto\\bd.json");\
 O pacote Newtonsoft.Json deve estar presente na solução, caso não esteja, instalar a partir do gerenciamento Manage NuGet Packages;\
 Compilar a solução e executar;\
@@ -12,4 +12,4 @@ Após a inserçãode  um novo registro os campos são limpos, permitindo a inser
 Os campos Nome, Descrição, Status e Data são alteraveis;\
 O campo de busca, funciona a partir da busca pelo nome de um serviço;\
 O filtro de status funciona a partir da selecção de um status no combobox;\
-O filtro nenhum na seleção de status traz todos os serviços cadastrados.
+O filtro nenhum na seleção de status traz todos os serviços cadastrados.**
