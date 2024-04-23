@@ -1,0 +1,14 @@
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.csproj.AssemblyReference.cache
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.csproj.SuggestedBindingRedirects.cache
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.Form1.resources
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.Properties.Resources.resources
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.csproj.GenerateResource.cache
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.csproj.CoreCompileInputs.cache
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\bin\Debug\Sistema.Gerenciameto.exe.config
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\bin\Debug\Sistema.Gerenciameto.exe
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\bin\Debug\Sistema.Gerenciameto.pdb
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\bin\Debug\Newtonsoft.Json.dll
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\bin\Debug\Newtonsoft.Json.xml
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.csproj.CopyComplete
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.exe
+D:\WS-VSCODE\Sistema.Gerenciameto\Sistema.Gerenciameto\obj\Debug\Sistema.Gerenciameto.pdb
