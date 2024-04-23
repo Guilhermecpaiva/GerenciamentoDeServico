@@ -11,5 +11,5 @@ Por padrão o Data grid view lista todos os serviços cadastrados, permitindo se
 Após a inserçãode  um novo registro os campos são limpos, permitindo a inserção de um novo registro;
 Os campos Nome, Descrição, Status e Data são alteraveis;\
 O campo de busca, funciona a partir da busca pelo nome de um serviço;\
-O filtro de status funciona a partir da selecção de um status no combobox;\
-O filtro nenhum na seleção de status traz todos os serviços cadastrados.**
+O filtro de status funciona a partir da seleção de um status no combobox;\
+O filtro nenhum na seleção de status tras todos os serviços cadastrados.**
