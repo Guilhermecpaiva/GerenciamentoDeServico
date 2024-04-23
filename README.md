@@ -2,7 +2,7 @@
 BaseDados<Servico> bd = new BaseDados<Servico>("D:\\WS-VSCODE\\Sistema.Gerenciameto\\bd.json");\
 O pacote Newtonsoft.Json deve estar presente na solução, caso não esteja, instalar a partir do gerenciamento Manage NuGet Packages;\
 Compilar a solução e executar;\
-Os metodos Salvar, Atualizar e Deletar são funcionais e deve-se selecioanr um registro antes de qualquer alteração;\
+Os metodos Salvar, Atualizar e Deletar são funcionais e deve-se selecionar um registro antes de qualquer alteração;\
 O ID é gerado de forma aleatória e unica para cada registro de Serviço;\
 O ID não é permito sem informado e não é permitido a sua alteração;\
 O metodo Salvar funciona a partir da inserção dos dados obrigatorios, não sendo permitido salvar sem as informações. Caso haja falta de informações ele retorna uma mensagem
