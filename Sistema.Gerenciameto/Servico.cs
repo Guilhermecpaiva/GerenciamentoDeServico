@@ -86,7 +86,7 @@ namespace Sistema.Gerenciameto
                 MessageBox.Show("Arquivo Salvo");
                 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 MessageBox.Show("Arquivo Salvo! " );
             }
